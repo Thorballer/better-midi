@@ -1,0 +1,15 @@
+{
+  "project": "better-midi",
+  "sources": [
+    {
+      "file": "notebooks/better_midi_(1).ipynb",
+      "source_url": "https://github.com/Thorballer/Alain-Cycling/blob/f7eb204a12b68283b093fbdb089f64708bd656c6/better_midi_(1).ipynb",
+      "source_commit": "f7eb204a12b68283b093fbdb089f64708bd656c6",
+      "original_sha256": "4c6682047e65d4d24367fa8935dc9c87a34a93ad1f6d946fee7928251945eb52",
+      "published_sha256": "4c6682047e65d4d24367fa8935dc9c87a34a93ad1f6d946fee7928251945eb52",
+      "redactions": [],
+      "executed_outputs_present": true
+    }
+  ],
+  "packaging_note": "Exact notebook recovered from Alain-Cycling, not the assistant-modified piano-transcription project. Original code, outputs, and metadata preserved. Source repository Apache-2.0 LICENSE retained."
+}

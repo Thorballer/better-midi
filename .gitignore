@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+kaggle.json
+data/
+out/
+checkpoints/
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.wav
+*.mid
+*.zip
+.DS_Store

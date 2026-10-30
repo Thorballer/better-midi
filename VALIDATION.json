@@ -1,0 +1,9 @@
+{
+  "repository": "better-midi",
+  "notebooks": 1,
+  "structure": "pass",
+  "hashes": "pass",
+  "credential_scan": "pass",
+  "syntax_issues": [],
+  "score_status": "63.74% retained single-song onset-only note F1; not rerun"
+}

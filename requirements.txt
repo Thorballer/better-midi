@@ -1,0 +1,13 @@
+# Imported packages; not a tested or version-pinned environment.
+h5py
+ipython
+kagglehub
+librosa
+mir-eval
+note-seq
+numpy
+pandas
+pretty-midi
+torch
+torchaudio
+tqdm
