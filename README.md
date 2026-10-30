@@ -2,7 +2,7 @@
 
 Piano audio-to-MIDI transcription in PyTorch, with convolution/attention layers, onset/frame/velocity prediction, and full-song inference in 30-second chunks.
 
-[Open the original notebook](notebooks/better_midi_%281%29.ipynb).
+[Open the notebook](notebooks/better_midi_%281%29.ipynb).
 
 ## Recorded result
 
@@ -26,6 +26,6 @@ Inference writes predicted and reference MIDI files; the final cell saves the mo
 
 ## Source
 
-Daniel Goldberg's notebook, preserved byte-for-byte with its outputs from [Alain-Cycling](https://github.com/Thorballer/Alain-Cycling/blob/f7eb204a12b68283b093fbdb089f64708bd656c6/better_midi_(1).ipynb). See [PROVENANCE.json](PROVENANCE.json) for the pinned source and hash. Documentation was added for this archive; training was not rerun.
+Daniel Goldberg's notebook from [Alain-Cycling](https://github.com/Thorballer/Alain-Cycling/blob/f7eb204a12b68283b093fbdb089f64708bd656c6/better_midi_(1).ipynb). See [PROVENANCE.json](PROVENANCE.json) for the pinned source and hash. Comments and formatting were cleaned up; executable logic and saved outputs are unchanged. The unedited copy is linked in the provenance record. Training was not rerun.
 
 The source repository's Apache-2.0 license is retained. MAESTRO and dependencies have separate licenses.

@@ -5,5 +5,15 @@
   "hashes": "pass",
   "credential_scan": "pass",
   "syntax_issues": [],
-  "score_status": "63.74% retained single-song onset-only note F1; not rerun"
+  "score_status": "63.74% retained single-song onset-only note F1; not rerun",
+  "comment_cleanup": {
+    "notebooks_reviewed": 1,
+    "notebooks_changed": 1,
+    "comments_before": 149,
+    "comments_after": 60,
+    "executable_ast": "identical cell-by-cell after IPython transformation",
+    "outputs_metadata_markdown": "unchanged",
+    "structure_and_compile": "pass",
+    "training_rerun": false
+  }
 }

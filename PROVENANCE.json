@@ -6,10 +6,13 @@
       "source_url": "https://github.com/Thorballer/Alain-Cycling/blob/f7eb204a12b68283b093fbdb089f64708bd656c6/better_midi_(1).ipynb",
       "source_commit": "f7eb204a12b68283b093fbdb089f64708bd656c6",
       "original_sha256": "4c6682047e65d4d24367fa8935dc9c87a34a93ad1f6d946fee7928251945eb52",
-      "published_sha256": "4c6682047e65d4d24367fa8935dc9c87a34a93ad1f6d946fee7928251945eb52",
+      "published_sha256": "efb679908a2069d22398dda31548f1fa3ba04f72a1783f28951644861abd4afe",
       "redactions": [],
-      "executed_outputs_present": true
+      "executed_outputs_present": true,
+      "pre_cleanup_commit": "735e44201735159706a4e0dada8c66c3a51abbe4",
+      "pre_cleanup_url": "https://github.com/Thorballer/better-midi/blob/735e44201735159706a4e0dada8c66c3a51abbe4/notebooks/better_midi_%281%29.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     }
   ],
-  "packaging_note": "Exact notebook recovered from Alain-Cycling, not the assistant-modified piano-transcription project. Original code, outputs, and metadata preserved. Source repository Apache-2.0 LICENSE retained."
+  "packaging_note": "Original source and saved outputs retained in the pre-cleanup Git history and linked sources. Published notebooks have comment and formatting cleanup only; executable ASTs, outputs, metadata, and cell order were checked unchanged. Training was not rerun."
 }
